@@ -1,0 +1,5 @@
+SET SERVEROUTPUT ON
+
+BEGIN
+    DBMS_OUTPUT.PUT_LINE('Xin chao ban den voi Oracle 12C');
+END;
